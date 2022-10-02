@@ -25,7 +25,7 @@
   
 
 <div id="badges">
-<img src="https://komarev.com/ghpvc/?username=vishalcseiitg&style=flat-square&color=orange" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=vishalcseiitg&style=plastic&color=orange" alt=""/>
 
 ---
 
